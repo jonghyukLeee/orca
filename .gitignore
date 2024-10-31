@@ -64,3 +64,6 @@ logs/
 # Windows specific
 Thumbs.db
 Desktop.ini
+
+# etc
+*.checksums.*
