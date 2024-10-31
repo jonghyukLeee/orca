@@ -1,0 +1,66 @@
+# Kotlin specific
+*.kt~
+*.kts
+
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+*.ipr
+
+# Eclipse specific
+.project
+.classpath
+.settings/
+target/
+bin/
+
+# Gradle specific
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# Maven specific
+.mvn/
+target/
+!mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Spring Boot specific
+# Exclude environment files for security reasons
+*.env
+.env.*
+
+# IntelliJ IDEA User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/vcs.xml
+
+# macOS specific
+*.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
