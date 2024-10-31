@@ -12,9 +12,9 @@ class User {
     @Id
     var id: String? = null
 
-    var birth: String? = null
-
     var loginId: String? = null
 
     var name: String? = null
+
+    var birth: String? = null
 }
