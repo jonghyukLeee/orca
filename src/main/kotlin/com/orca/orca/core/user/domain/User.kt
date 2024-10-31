@@ -1,4 +1,4 @@
-package com.orca.orca.core.user
+package com.orca.orca.core.user.domain
 
 import org.springframework.data.annotation.Id
 import org.springframework.data.mongodb.core.mapping.Document
