@@ -16,5 +16,5 @@ class User {
 
     var loginId: String? = null
 
-    var loginPlatform: String? = null
+    var name: String? = null
 }
